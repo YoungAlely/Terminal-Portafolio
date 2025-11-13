@@ -1,20 +1,20 @@
 
-
------
-
 # 💻 Young-Tego Portafolio (Terminal Mode)
 
 [](https://www.google.com/search?q=LICENSE)
 [](https://www.google.com/search?q=https://github.com/YoungAlely/YoungTego/stargazers)
-[](https://www.google.com/search?q=https://youngalely.github.io/YoungTego/)
+[](https://www.google.com/search?q=https://youngtego.web.app/terminal)
 
 Bienvenido al portafolio interactivo de **(Young-Tego)**.
+
+### ✨ **Puedes interactuar con el portafolio en vivo aquí:** [youngtego.web.app/terminal](https://www.google.com/search?q=https://youngtego.web.app/terminal)
 
 Este proyecto es una aplicación web moderna construida con **React, Vite y Tailwind CSS**, que ofrece una experiencia de usuario única: una **interfaz de terminal interactiva** que simula un entorno de línea de comandos. Utiliza comandos para explorar proyectos, habilidades y experiencia profesional.
 
 ## 🌟 Características
 
   * **Experiencia Inmersiva:** Navegación completa del portafolio mediante comandos de terminal.
+  * **Modo Dual:** Opción de cambiar al **Modo Visual** (interfaz gráfica tradicional) en cualquier momento (usando el comando `/visual`).
   * **Tecnología Moderna:** Rendimiento rápido y eficiente gracias a **Vite** y el diseño responsivo de **Tailwind CSS**.
   * **Estructura Limpia:** Rutas centralizadas y lógica de *drag* optimizada para móvil y PC.
 
@@ -31,6 +31,7 @@ Cuando la terminal se carga, está lista para recibir comandos. Escribe `help` p
 | **`skills`** | Lista todas las tecnologías y el *stack* de desarrollo. |
 | **`projects`** | Muestra un resumen de los proyectos clave. |
 | **`clear`** | Limpia la pantalla de la terminal. |
+| **`/visual`** | Cambia al modo de interfaz gráfica. |
 
 -----
 
@@ -82,3 +83,4 @@ El proyecto se abrirá en tu navegador, generalmente en `http://localhost:5173/`
 Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para más detalles.
 
 -----
+
