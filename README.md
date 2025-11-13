@@ -7,7 +7,7 @@
 
 Bienvenido al portafolio interactivo de **(Young-Tego)**.
 
-### ✨ **Puedes interactuar con el portafolio en vivo aquí:** [youngtego.web.app/terminal](https://www.google.com/search?q=https://youngtego.web.app/terminal)
+### ✨ **Puedes interactuar con el portafolio en vivo aquí:** [youngtego.web.app/terminal](youngtego.web.app/terminal)
 
 Este proyecto es una aplicación web moderna construida con **React, Vite y Tailwind CSS**, que ofrece una experiencia de usuario única: una **interfaz de terminal interactiva** que simula un entorno de línea de comandos. Utiliza comandos para explorar proyectos, habilidades y experiencia profesional.
 
